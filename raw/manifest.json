@@ -16,7 +16,7 @@
     "html_bytes": 92735,
     "raw_text_chars": 7350,
     "raw_text_lines": 2121,
-    "fetched_at": "2026-06-06T16:32:05.858196+00:00",
+    "fetched_at": "2026-06-06T18:45:57.309777+00:00",
     "error": null
   },
   {
@@ -36,7 +36,7 @@
     "html_bytes": 90312,
     "raw_text_chars": 8339,
     "raw_text_lines": 2306,
-    "fetched_at": "2026-06-06T16:32:08.108371+00:00",
+    "fetched_at": "2026-06-06T18:46:00.072401+00:00",
     "error": null
   },
   {
@@ -55,7 +55,7 @@
     "html_bytes": 85616,
     "raw_text_chars": 13658,
     "raw_text_lines": 1103,
-    "fetched_at": "2026-06-06T16:32:10.305573+00:00",
+    "fetched_at": "2026-06-06T18:46:02.344984+00:00",
     "error": null
   },
   {
@@ -74,7 +74,7 @@
     "html_bytes": 105407,
     "raw_text_chars": 8499,
     "raw_text_lines": 2264,
-    "fetched_at": "2026-06-06T16:32:12.470271+00:00",
+    "fetched_at": "2026-06-06T18:46:04.586000+00:00",
     "error": null
   },
   {
@@ -93,7 +93,7 @@
     "html_bytes": 448830,
     "raw_text_chars": 8931,
     "raw_text_lines": 253,
-    "fetched_at": "2026-06-06T16:32:14.726065+00:00",
+    "fetched_at": "2026-06-06T18:46:06.824750+00:00",
     "error": null
   },
   {
@@ -112,7 +112,7 @@
     "html_bytes": 170510,
     "raw_text_chars": 12691,
     "raw_text_lines": 2885,
-    "fetched_at": "2026-06-06T16:32:16.926062+00:00",
+    "fetched_at": "2026-06-06T18:46:09.317837+00:00",
     "error": null
   },
   {
@@ -128,10 +128,10 @@
     "text_path": "raw/text/07_myfico_credit_score_education.txt",
     "status": "ok",
     "http_code": 200,
-    "html_bytes": 221326,
+    "html_bytes": 221460,
     "raw_text_chars": 7895,
     "raw_text_lines": 2560,
-    "fetched_at": "2026-06-06T16:32:19.203778+00:00",
+    "fetched_at": "2026-06-06T18:46:11.519423+00:00",
     "error": null
   },
   {
@@ -150,7 +150,7 @@
     "html_bytes": 493276,
     "raw_text_chars": 17229,
     "raw_text_lines": 2918,
-    "fetched_at": "2026-06-06T16:32:21.592925+00:00",
+    "fetched_at": "2026-06-06T18:46:15.945143+00:00",
     "error": null
   },
   {
@@ -169,7 +169,7 @@
     "html_bytes": 55328,
     "raw_text_chars": 6269,
     "raw_text_lines": 1949,
-    "fetched_at": "2026-06-06T16:32:23.862668+00:00",
+    "fetched_at": "2026-06-06T18:46:18.241602+00:00",
     "error": null
   },
   {
@@ -188,7 +188,7 @@
     "html_bytes": 8436,
     "raw_text_chars": 207,
     "raw_text_lines": 170,
-    "fetched_at": "2026-06-06T16:32:26.020021+00:00",
+    "fetched_at": "2026-06-06T18:46:20.385743+00:00",
     "error": null
   },
   {
@@ -207,7 +207,7 @@
     "html_bytes": 268965,
     "raw_text_chars": 17946,
     "raw_text_lines": 4248,
-    "fetched_at": "2026-06-06T16:32:30.452390+00:00",
+    "fetched_at": "2026-06-06T18:46:24.081977+00:00",
     "error": null
   },
   {
@@ -226,7 +226,7 @@
     "html_bytes": 88834,
     "raw_text_chars": 9977,
     "raw_text_lines": 938,
-    "fetched_at": "2026-06-06T16:32:33.167755+00:00",
+    "fetched_at": "2026-06-06T18:46:27.116247+00:00",
     "error": null
   },
   {
@@ -245,7 +245,7 @@
     "html_bytes": 268965,
     "raw_text_chars": 17946,
     "raw_text_lines": 4248,
-    "fetched_at": "2026-06-06T16:32:36.798238+00:00",
+    "fetched_at": "2026-06-06T18:46:30.909297+00:00",
     "error": null
   },
   {
@@ -263,7 +263,7 @@
     "html_bytes": 103576,
     "raw_text_chars": 10625,
     "raw_text_lines": 1371,
-    "fetched_at": "2026-06-06T16:32:39.075963+00:00",
+    "fetched_at": "2026-06-06T18:46:33.250558+00:00",
     "error": null
   },
   {
@@ -279,10 +279,10 @@
     "text_path": "raw/text/15_usc_culture_shock_guide.txt",
     "status": "ok",
     "http_code": 200,
-    "html_bytes": 133962,
-    "raw_text_chars": 9655,
-    "raw_text_lines": 1218,
-    "fetched_at": "2026-06-06T16:32:41.214993+00:00",
+    "html_bytes": 133964,
+    "raw_text_chars": 9657,
+    "raw_text_lines": 1220,
+    "fetched_at": "2026-06-06T18:46:35.995327+00:00",
     "error": null
   }
 ]
