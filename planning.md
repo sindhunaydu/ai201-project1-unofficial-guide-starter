@@ -9,27 +9,54 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+International Student Survival Guide (United States)
+
+**Why this domain?**
+
+Millions of international students come to the United States each year and must navigate immigration rules, academics, housing, healthcare, banking, taxes, employment, and daily life. Information exists across many websites, government agencies, university pages, and online communities, making it difficult to find answers quickly.
+
+International students frequently have practical questions such as:
+
+* What is CPT or OPT?
+* How do I rent an apartment without a credit history?
+* How do U.S. taxes work for international students?
+* How do I open a bank account and build credit?
+* What should I do in a medical emergency?
+* How can I prepare for internships and jobs?
+
+Having a single knowledge source that combines these topics can save students significant time and help them avoid costly mistakes.
+
+**Why is it hard to find through official channels?**
+
+Official sources often cover only a small part of the student experience:
+
+* Important information is scattered across multiple agencies such as DHS, USCIS, IRS, SSA, and individual universities.
+* Many real-world questions are answered only through student experiences shared on forums and community discussions.
+* Students often need information that combines rules and practical advice.
+
+As a result, students must search across dozens of sources and piece together information themselves. An AI-powered survival guide can aggregate authoritative information and community knowledge into one accessible resource.
 
 ---
 
 ## Documents
 
-<!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
-     Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
-
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | DHS | Maintaining F-1 status | https://studyinthestates.dhs.gov/students |
+| 2 | USCIS | USCIS student employment (OPT/CPT) | https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors |
+| 3 | SSA | Social Security Number for students | https://www.ssa.gov/ssnumber |
+| 4 | IRS | IRS tax information for international students | https://www.irs.gov/individuals/international-taxpayers |
+| 5 | Healthcare.gov | Student health insurance basics | https://www.healthcare.gov/young-adults/college-students/ |
+| 6 | ConsumerFinance | U.S. banking basics | https://www.consumerfinance.gov/consumer-tools/bank-accounts/ |
+| 7 | MyFico | Credit score education | https://www.myfico.com/credit-education |
+| 8 | FTC | Renting apartments guide | https://consumer.ftc.gov/articles/tenant-background-checks-and-your-rights |
+| 9 | Ready.gov | Campus safety resources | https://www.ready.gov/campus |
+| 10 | Reddit | Reddit discussions from international students | https://www.reddit.com/r/IntltoUSA/ |
+| 11 | UC Berkeley | Career services for international students | https://career.berkeley.edu/communities/international-students/ |
+| 12 | University of Illinois | Academic integrity/plagiarism | https://provost.illinois.edu/policies/policies/academic-integrity/students-quick-reference-guide-to-academic-integrity/|
+| 13 | UC Berkeley | Internship & Career Preparation | https://career.berkeley.edu/communities/international-students/ |
+| 14 | Stanford University | Taxes | https://bechtel.stanford.edu/navigate-international-life/taxes |
+| 15 | USC | Culture Shock | https://ois.usc.edu/2024/04/08/navigating-culture-shock-a-guide-for-international-students-in-the-u-s/ |
 
 ---
 
