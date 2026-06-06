@@ -1,0 +1,288 @@
+[
+  {
+    "id": 1,
+    "name": "DHS – Maintaining F-1 Status",
+    "url": "https://studyinthestates.dhs.gov/students",
+    "tags": [
+      "immigration",
+      "f1",
+      "status"
+    ],
+    "slug": "01_dhs_maintaining_f_1_status",
+    "html_path": "raw/html/01_dhs_maintaining_f_1_status.html",
+    "text_path": "raw/text/01_dhs_maintaining_f_1_status.txt",
+    "status": "ok",
+    "http_code": 200,
+    "html_bytes": 92735,
+    "raw_text_chars": 7350,
+    "raw_text_lines": 2121,
+    "fetched_at": "2026-06-06T16:32:05.858196+00:00",
+    "error": null
+  },
+  {
+    "id": 2,
+    "name": "USCIS – Student Employment OPT/CPT",
+    "url": "https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors",
+    "tags": [
+      "employment",
+      "opt",
+      "cpt"
+    ],
+    "slug": "02_uscis_student_employment_opt_cpt",
+    "html_path": "raw/html/02_uscis_student_employment_opt_cpt.html",
+    "text_path": "raw/text/02_uscis_student_employment_opt_cpt.txt",
+    "status": "ok",
+    "http_code": 200,
+    "html_bytes": 90312,
+    "raw_text_chars": 8339,
+    "raw_text_lines": 2306,
+    "fetched_at": "2026-06-06T16:32:08.108371+00:00",
+    "error": null
+  },
+  {
+    "id": 3,
+    "name": "SSA – Social Security Number",
+    "url": "https://bechtel.stanford.edu/navigate-international-life/social-security-number-ssn",
+    "tags": [
+      "ssn",
+      "social-security"
+    ],
+    "slug": "03_ssa_social_security_number",
+    "html_path": "raw/html/03_ssa_social_security_number.html",
+    "text_path": "raw/text/03_ssa_social_security_number.txt",
+    "status": "ok",
+    "http_code": 200,
+    "html_bytes": 85616,
+    "raw_text_chars": 13658,
+    "raw_text_lines": 1103,
+    "fetched_at": "2026-06-06T16:32:10.305573+00:00",
+    "error": null
+  },
+  {
+    "id": 4,
+    "name": "IRS – Tax Info for International Students",
+    "url": "https://www.irs.gov/individuals/international-taxpayers",
+    "tags": [
+      "taxes",
+      "irs"
+    ],
+    "slug": "04_irs_tax_info_for_international_students",
+    "html_path": "raw/html/04_irs_tax_info_for_international_students.html",
+    "text_path": "raw/text/04_irs_tax_info_for_international_students.txt",
+    "status": "ok",
+    "http_code": 200,
+    "html_bytes": 105407,
+    "raw_text_chars": 8499,
+    "raw_text_lines": 2264,
+    "fetched_at": "2026-06-06T16:32:12.470271+00:00",
+    "error": null
+  },
+  {
+    "id": 5,
+    "name": "Healthcare.gov – Student Health Insurance",
+    "url": "https://www.healthcare.gov/young-adults/college-students/",
+    "tags": [
+      "health",
+      "insurance"
+    ],
+    "slug": "05_healthcare_gov_student_health_insurance",
+    "html_path": "raw/html/05_healthcare_gov_student_health_insurance.html",
+    "text_path": "raw/text/05_healthcare_gov_student_health_insurance.txt",
+    "status": "ok",
+    "http_code": 200,
+    "html_bytes": 448830,
+    "raw_text_chars": 8931,
+    "raw_text_lines": 253,
+    "fetched_at": "2026-06-06T16:32:14.726065+00:00",
+    "error": null
+  },
+  {
+    "id": 6,
+    "name": "CFPB – US Banking Basics",
+    "url": "https://www.consumerfinance.gov/consumer-tools/bank-accounts/",
+    "tags": [
+      "banking",
+      "finance"
+    ],
+    "slug": "06_cfpb_us_banking_basics",
+    "html_path": "raw/html/06_cfpb_us_banking_basics.html",
+    "text_path": "raw/text/06_cfpb_us_banking_basics.txt",
+    "status": "ok",
+    "http_code": 200,
+    "html_bytes": 170510,
+    "raw_text_chars": 12691,
+    "raw_text_lines": 2885,
+    "fetched_at": "2026-06-06T16:32:16.926062+00:00",
+    "error": null
+  },
+  {
+    "id": 7,
+    "name": "myFICO – Credit Score Education",
+    "url": "https://www.myfico.com/credit-education",
+    "tags": [
+      "credit",
+      "finance"
+    ],
+    "slug": "07_myfico_credit_score_education",
+    "html_path": "raw/html/07_myfico_credit_score_education.html",
+    "text_path": "raw/text/07_myfico_credit_score_education.txt",
+    "status": "ok",
+    "http_code": 200,
+    "html_bytes": 221326,
+    "raw_text_chars": 7895,
+    "raw_text_lines": 2560,
+    "fetched_at": "2026-06-06T16:32:19.203778+00:00",
+    "error": null
+  },
+  {
+    "id": 8,
+    "name": "FTC – Renting Apartments Guide",
+    "url": "https://consumer.ftc.gov/articles/tenant-background-checks-and-your-rights",
+    "tags": [
+      "housing",
+      "renting"
+    ],
+    "slug": "08_ftc_renting_apartments_guide",
+    "html_path": "raw/html/08_ftc_renting_apartments_guide.html",
+    "text_path": "raw/text/08_ftc_renting_apartments_guide.txt",
+    "status": "ok",
+    "http_code": 200,
+    "html_bytes": 493276,
+    "raw_text_chars": 17229,
+    "raw_text_lines": 2918,
+    "fetched_at": "2026-06-06T16:32:21.592925+00:00",
+    "error": null
+  },
+  {
+    "id": 9,
+    "name": "Ready.gov – Campus Safety",
+    "url": "https://www.ready.gov/campus",
+    "tags": [
+      "safety",
+      "campus"
+    ],
+    "slug": "09_ready_gov_campus_safety",
+    "html_path": "raw/html/09_ready_gov_campus_safety.html",
+    "text_path": "raw/text/09_ready_gov_campus_safety.txt",
+    "status": "ok",
+    "http_code": 200,
+    "html_bytes": 55328,
+    "raw_text_chars": 6269,
+    "raw_text_lines": 1949,
+    "fetched_at": "2026-06-06T16:32:23.862668+00:00",
+    "error": null
+  },
+  {
+    "id": 10,
+    "name": "Reddit – r/IntltoUSA",
+    "url": "https://www.reddit.com/r/IntltoUSA/",
+    "tags": [
+      "community",
+      "reddit"
+    ],
+    "slug": "10_reddit_r_intltousa",
+    "html_path": "raw/html/10_reddit_r_intltousa.html",
+    "text_path": "raw/text/10_reddit_r_intltousa.txt",
+    "status": "ok",
+    "http_code": 200,
+    "html_bytes": 8436,
+    "raw_text_chars": 207,
+    "raw_text_lines": 170,
+    "fetched_at": "2026-06-06T16:32:26.020021+00:00",
+    "error": null
+  },
+  {
+    "id": 11,
+    "name": "UC Berkeley – Career Services International",
+    "url": "https://career.berkeley.edu/communities/international-students/",
+    "tags": [
+      "career",
+      "internship"
+    ],
+    "slug": "11_uc_berkeley_career_services_international",
+    "html_path": "raw/html/11_uc_berkeley_career_services_international.html",
+    "text_path": "raw/text/11_uc_berkeley_career_services_international.txt",
+    "status": "ok",
+    "http_code": 200,
+    "html_bytes": 268965,
+    "raw_text_chars": 17946,
+    "raw_text_lines": 4248,
+    "fetched_at": "2026-06-06T16:32:30.452390+00:00",
+    "error": null
+  },
+  {
+    "id": 12,
+    "name": "UIUC – Academic Integrity",
+    "url": "https://provost.illinois.edu/policies/policies/academic-integrity/students-quick-reference-guide-to-academic-integrity/",
+    "tags": [
+      "academics",
+      "integrity"
+    ],
+    "slug": "12_uiuc_academic_integrity",
+    "html_path": "raw/html/12_uiuc_academic_integrity.html",
+    "text_path": "raw/text/12_uiuc_academic_integrity.txt",
+    "status": "ok",
+    "http_code": 200,
+    "html_bytes": 88834,
+    "raw_text_chars": 9977,
+    "raw_text_lines": 938,
+    "fetched_at": "2026-06-06T16:32:33.167755+00:00",
+    "error": null
+  },
+  {
+    "id": 13,
+    "name": "UC Berkeley – Internship and Career Preparation",
+    "url": "https://career.berkeley.edu/communities/international-students/",
+    "tags": [
+      "career",
+      "internship"
+    ],
+    "slug": "13_uc_berkeley_internship_and_career_preparation",
+    "html_path": "raw/html/13_uc_berkeley_internship_and_career_preparation.html",
+    "text_path": "raw/text/13_uc_berkeley_internship_and_career_preparation.txt",
+    "status": "ok",
+    "http_code": 200,
+    "html_bytes": 268965,
+    "raw_text_chars": 17946,
+    "raw_text_lines": 4248,
+    "fetched_at": "2026-06-06T16:32:36.798238+00:00",
+    "error": null
+  },
+  {
+    "id": 14,
+    "name": "Stanford – Taxes",
+    "url": "https://bechtel.stanford.edu/navigate-international-life/taxes",
+    "tags": [
+      "taxes"
+    ],
+    "slug": "14_stanford_taxes",
+    "html_path": "raw/html/14_stanford_taxes.html",
+    "text_path": "raw/text/14_stanford_taxes.txt",
+    "status": "ok",
+    "http_code": 200,
+    "html_bytes": 103576,
+    "raw_text_chars": 10625,
+    "raw_text_lines": 1371,
+    "fetched_at": "2026-06-06T16:32:39.075963+00:00",
+    "error": null
+  },
+  {
+    "id": 15,
+    "name": "USC – Culture Shock Guide",
+    "url": "https://ois.usc.edu/2024/04/08/navigating-culture-shock-a-guide-for-international-students-in-the-u-s/",
+    "tags": [
+      "culture",
+      "adjustment"
+    ],
+    "slug": "15_usc_culture_shock_guide",
+    "html_path": "raw/html/15_usc_culture_shock_guide.html",
+    "text_path": "raw/text/15_usc_culture_shock_guide.txt",
+    "status": "ok",
+    "http_code": 200,
+    "html_bytes": 133962,
+    "raw_text_chars": 9655,
+    "raw_text_lines": 1218,
+    "fetched_at": "2026-06-06T16:32:41.214993+00:00",
+    "error": null
+  }
+]

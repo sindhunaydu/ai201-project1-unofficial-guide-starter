@@ -1,0 +1,422 @@
+[
+  {
+    "chunk_id": "src01_chunk0000",
+    "source_name": "DHS – Maintaining F-1 Status",
+    "token_count": 493,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src01_chunk0001",
+    "source_name": "DHS – Maintaining F-1 Status",
+    "token_count": 495,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src01_chunk0002",
+    "source_name": "DHS – Maintaining F-1 Status",
+    "token_count": 312,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src02_chunk0000",
+    "source_name": "USCIS – Student Employment (OPT/CPT)",
+    "token_count": 496,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src02_chunk0001",
+    "source_name": "USCIS – Student Employment (OPT/CPT)",
+    "token_count": 500,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src02_chunk0002",
+    "source_name": "USCIS – Student Employment (OPT/CPT)",
+    "token_count": 325,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src03_chunk0000",
+    "source_name": "SSA – Social Security Number",
+    "token_count": 495,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src03_chunk0001",
+    "source_name": "SSA – Social Security Number",
+    "token_count": 500,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src03_chunk0002",
+    "source_name": "SSA – Social Security Number",
+    "token_count": 496,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src03_chunk0003",
+    "source_name": "SSA – Social Security Number",
+    "token_count": 490,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src03_chunk0004",
+    "source_name": "SSA – Social Security Number",
+    "token_count": 478,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src03_chunk0005",
+    "source_name": "SSA – Social Security Number",
+    "token_count": 499,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src03_chunk0006",
+    "source_name": "SSA – Social Security Number",
+    "token_count": 131,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src04_chunk0000",
+    "source_name": "IRS – Tax Info for International Students",
+    "token_count": 500,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src04_chunk0001",
+    "source_name": "IRS – Tax Info for International Students",
+    "token_count": 472,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src04_chunk0002",
+    "source_name": "IRS – Tax Info for International Students",
+    "token_count": 394,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src05_chunk0000",
+    "source_name": "Healthcare.gov – Student Health Insurance",
+    "token_count": 500,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src05_chunk0001",
+    "source_name": "Healthcare.gov – Student Health Insurance",
+    "token_count": 485,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src05_chunk0002",
+    "source_name": "Healthcare.gov – Student Health Insurance",
+    "token_count": 478,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src05_chunk0003",
+    "source_name": "Healthcare.gov – Student Health Insurance",
+    "token_count": 495,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src05_chunk0004",
+    "source_name": "Healthcare.gov – Student Health Insurance",
+    "token_count": 216,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src06_chunk0000",
+    "source_name": "CFPB – U.S. Banking Basics",
+    "token_count": 499,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src06_chunk0001",
+    "source_name": "CFPB – U.S. Banking Basics",
+    "token_count": 500,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src06_chunk0002",
+    "source_name": "CFPB – U.S. Banking Basics",
+    "token_count": 287,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src07_chunk0000",
+    "source_name": "myFICO – Credit Score Education",
+    "token_count": 493,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src07_chunk0001",
+    "source_name": "myFICO – Credit Score Education",
+    "token_count": 496,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src07_chunk0002",
+    "source_name": "myFICO – Credit Score Education",
+    "token_count": 264,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src08_chunk0000",
+    "source_name": "FTC – Renting Apartments Guide",
+    "token_count": 497,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src08_chunk0001",
+    "source_name": "FTC – Renting Apartments Guide",
+    "token_count": 483,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src08_chunk0002",
+    "source_name": "FTC – Renting Apartments Guide",
+    "token_count": 496,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src08_chunk0003",
+    "source_name": "FTC – Renting Apartments Guide",
+    "token_count": 493,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src08_chunk0004",
+    "source_name": "FTC – Renting Apartments Guide",
+    "token_count": 492,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src08_chunk0005",
+    "source_name": "FTC – Renting Apartments Guide",
+    "token_count": 484,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src08_chunk0006",
+    "source_name": "FTC – Renting Apartments Guide",
+    "token_count": 422,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src09_chunk0000",
+    "source_name": "Ready.gov – Campus Safety",
+    "token_count": 485,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src09_chunk0001",
+    "source_name": "Ready.gov – Campus Safety",
+    "token_count": 361,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src10_chunk0000",
+    "source_name": "Reddit – r/IntltoUSA Discussions",
+    "token_count": 7,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src11_chunk0000",
+    "source_name": "UC Berkeley – Career Services (International)",
+    "token_count": 500,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src11_chunk0001",
+    "source_name": "UC Berkeley – Career Services (International)",
+    "token_count": 499,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src11_chunk0002",
+    "source_name": "UC Berkeley – Career Services (International)",
+    "token_count": 482,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src11_chunk0003",
+    "source_name": "UC Berkeley – Career Services (International)",
+    "token_count": 498,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src11_chunk0004",
+    "source_name": "UC Berkeley – Career Services (International)",
+    "token_count": 500,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src11_chunk0005",
+    "source_name": "UC Berkeley – Career Services (International)",
+    "token_count": 482,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src12_chunk0000",
+    "source_name": "UIUC – Academic Integrity / Plagiarism",
+    "token_count": 486,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src12_chunk0001",
+    "source_name": "UIUC – Academic Integrity / Plagiarism",
+    "token_count": 492,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src12_chunk0002",
+    "source_name": "UIUC – Academic Integrity / Plagiarism",
+    "token_count": 475,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src13_chunk0000",
+    "source_name": "UC Berkeley – Internship & Career Preparation",
+    "token_count": 500,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src13_chunk0001",
+    "source_name": "UC Berkeley – Internship & Career Preparation",
+    "token_count": 499,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src13_chunk0002",
+    "source_name": "UC Berkeley – Internship & Career Preparation",
+    "token_count": 482,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src13_chunk0003",
+    "source_name": "UC Berkeley – Internship & Career Preparation",
+    "token_count": 498,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src13_chunk0004",
+    "source_name": "UC Berkeley – Internship & Career Preparation",
+    "token_count": 500,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src13_chunk0005",
+    "source_name": "UC Berkeley – Internship & Career Preparation",
+    "token_count": 482,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src14_chunk0000",
+    "source_name": "Stanford – Taxes",
+    "token_count": 499,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src14_chunk0001",
+    "source_name": "Stanford – Taxes",
+    "token_count": 500,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src14_chunk0002",
+    "source_name": "Stanford – Taxes",
+    "token_count": 488,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src14_chunk0003",
+    "source_name": "Stanford – Taxes",
+    "token_count": 468,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src15_chunk0000",
+    "source_name": "USC – Culture Shock Guide",
+    "token_count": 497,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src15_chunk0001",
+    "source_name": "USC – Culture Shock Guide",
+    "token_count": 491,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src15_chunk0002",
+    "source_name": "USC – Culture Shock Guide",
+    "token_count": 483,
+    "embed_dim": 384,
+    "norm": 1.0
+  },
+  {
+    "chunk_id": "src15_chunk0003",
+    "source_name": "USC – Culture Shock Guide",
+    "token_count": 445,
+    "embed_dim": 384,
+    "norm": 1.0
+  }
+]
